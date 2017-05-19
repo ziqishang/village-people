@@ -13,6 +13,7 @@ namespace ConsoleApplication7
             Console.Write("Enter your name");
             string input = Console.ReadLine();
             Console.WriteLine(input);
+            Console.WriteLine("My name is " + input);
          
         }
 
